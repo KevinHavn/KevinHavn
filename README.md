@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome!
+- I'm a student currently learning Front-End Development on Noroff's online studies.
 
 <!--
 **KevinHavn/KevinHavn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
