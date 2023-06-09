@@ -1,6 +1,6 @@
 ### Welcome!
 - I'm a student currently learning Front-End Development on Noroff's online studies.
-
+- My linkedIn profile can be found here: [Kevin Havn](https://www.linkedin.com/in/kevin-havn/)
 <!--
 **KevinHavn/KevinHavn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
